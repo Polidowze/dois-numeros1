@@ -1,0 +1,15 @@
+C:\Users\user\Documents\dois numeros\dois-numeros\bin\Debug\net8.0\dois-numeros.exe
+C:\Users\user\Documents\dois numeros\dois-numeros\bin\Debug\net8.0\dois-numeros.deps.json
+C:\Users\user\Documents\dois numeros\dois-numeros\bin\Debug\net8.0\dois-numeros.runtimeconfig.json
+C:\Users\user\Documents\dois numeros\dois-numeros\bin\Debug\net8.0\dois-numeros.dll
+C:\Users\user\Documents\dois numeros\dois-numeros\bin\Debug\net8.0\dois-numeros.pdb
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\dois-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\dois-numeros.AssemblyInfoInputs.cache
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\dois-numeros.AssemblyInfo.cs
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\dois-numeros.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\dois-numeros.sourcelink.json
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\dois-numeros.dll
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\refint\dois-numeros.dll
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\dois-numeros.pdb
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\dois-numeros.genruntimeconfig.cache
+C:\Users\user\Documents\dois numeros\dois-numeros\obj\Debug\net8.0\ref\dois-numeros.dll
